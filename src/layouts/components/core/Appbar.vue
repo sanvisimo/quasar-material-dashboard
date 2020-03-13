@@ -51,7 +51,7 @@
         min-width="0"
         flat
         icon="mdi-account"
-        to="/pages/user"
+        to="/user"
       />
 
       <div>Quasar v{{ $q.version }}</div>
