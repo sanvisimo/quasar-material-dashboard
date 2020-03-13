@@ -46,6 +46,14 @@
         flat
       />
 
+      <q-btn
+        class="ml-2"
+        min-width="0"
+        flat
+        icon="mdi-account"
+        to="/pages/user"
+      />
+
       <div>Quasar v{{ $q.version }}</div>
     </q-toolbar>
   </q-header>
